@@ -1,0 +1,25 @@
+{
+  "name": "Razor",
+  "homepage": "https://github.com/christoga/razor",
+  "authors": [
+    "Andre Christoga <andre.christoga@gmail.com>"
+  ],
+  "description": "A hacker message framework",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "razor",
+    "hacker",
+    "message",
+    "cool",
+    "message",
+    "hackermessage",
+    "typed",
+    "message",
+    "typed",
+    "animation",
+    "hacker",
+    "animation"
+  ],
+  "license": "MIT"
+}
