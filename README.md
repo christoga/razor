@@ -4,7 +4,7 @@
 Razor is a hacker message framework.
 
 ## Demo
-<a href="http://christoga.github.io/razor">Chekc out the live demo here! :smile:</a>
+Razor demo is available at http://christoga.github.io/razor and http://git.io/razorr
 
 ### To Use
 
@@ -31,6 +31,8 @@ function start(){
 		"Thank you, ^3000 adios.^2000"
 ```
 Change them to your message
+
+
 ## License
 
 Razor is licensed under the MIT license.
