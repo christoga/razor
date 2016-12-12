@@ -17,7 +17,7 @@ function start(){
 		strings: [
 		"Oh. Hello there.^2000",
 		"I'm Christo.^3000",
-		I code Razor.^2000",
+		"I code Razor.^2000",
 		"Razor is a hacker message framework.^2000",
 		"You can clone it.^2000",
 		"Its open source.^2000",
